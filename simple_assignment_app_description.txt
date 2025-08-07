@@ -1,0 +1,22 @@
+Simple Assignment Request App (Python)
+
+This Python app collects assignment requests with the following key information:
+- Name
+- City
+- Phone Number
+- Payment Status
+
+The app can be later deployed using platforms like Streamlit, Flask, or FastAPI.
+
+Example Input Format:
+----------------------
+Name: John Doe
+City: Riyadh
+Phone Number: +966500000000
+Payment Status: Paid
+
+Future Enhancements:
+----------------------
+- Store submissions in a database or CSV file.
+- Add email confirmation to users.
+- Deploy using Streamlit or Flask.
